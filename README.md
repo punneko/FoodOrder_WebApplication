@@ -1,4 +1,4 @@
-# Food Order System
+# Food Order System (Term Project)
 
 A web-based food ordering system for restaurants, built with PHP, JavaScript, MySQL, and CSS. The system allows customers to browse menus, place orders, and track their order status.
 
