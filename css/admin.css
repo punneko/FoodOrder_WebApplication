@@ -1,0 +1,143 @@
+.wrapper {
+    border: 1px ;
+    padding: 1%;
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.clearfix {
+    float: none;
+    clear: both;
+}
+
+.tbl-full {
+    width: 100%;
+}
+
+.tbl-30 {
+    width: 30%
+}
+
+table tr th {
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+
+table tr td {
+    padding: 1%;
+
+}
+h1{
+    color: #990000;
+}
+.btn-primary {
+    background-image: linear-gradient(rgb(224, 46, 46),rgb(192, 12, 12),#990000);;
+    padding: 1%;
+    color: wheat;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: crimson;
+}
+
+.btn-secondary {
+    background-color: darkgreen;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn-secondary:hover {
+    background-color:green;
+}
+
+.btn-danger {
+    background-color:darkred;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn-danger:hover {
+    background-color:crimson
+}
+
+.success{
+    color:darkgreen;
+}
+.error{
+    color:darkred;
+}
+
+/*css for Menu*/
+.menu {
+    border-bottom: 1px solid #990000;
+    background-color: #990000;
+    border-radius: 20px;
+}
+
+.menu ul {
+    list-style-type: none;
+
+}
+
+.menu ul li {
+    display: inline;
+    padding: 1%;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: wheat;
+}
+
+.menu ul li a:hover {
+    color:white;
+}
+
+/*css for main content*/
+.main-content {
+    background-image: linear-gradient(white,wheat);;
+    padding: 3% 0;
+
+}
+
+.col-4 {
+    width: 20%;
+    background-color: white;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+}
+
+/*css for Footer*/
+.footer {
+    border-bottom: 1px solid #990000;
+    background-color: #990000;
+    color: wheat;
+}
+
+* {
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*css for login*/
+.login{
+    background-image: linear-gradient(white,wheat);
+    width:20%;
+    border:1px solid grey;
+    margin: 10% auto;
+    padding:2%;
+}
+
