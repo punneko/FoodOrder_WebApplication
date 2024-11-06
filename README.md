@@ -1,6 +1,6 @@
 # Food Order System (Term Project)
 
-A web-based food ordering system for restaurants, built with PHP, JavaScript, MySQL, and CSS. The system allows customers to browse menus, place orders, and track their order status.
+A web-based food ordering system for restaurants, built with PHP, JavaScript, MySQL, CSS and HTML. The system allows customers to browse menus, place orders, and track their order status.
 
 ### Collaboration
 This project was developed collaboratively by Panyarat and Pornkamol. We worked together to implement the features and improve the overall design and functionality.
